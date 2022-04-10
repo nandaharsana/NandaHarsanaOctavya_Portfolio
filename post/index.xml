@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Nanda Harsana Octavya</title>
+    <link>https://nandaharsana.github.io/NandaHarsanaOctavya_Portfolio/post/</link>
+    <description>Recent content in Projects on Nanda Harsana Octavya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://nandaharsana.github.io/NandaHarsanaOctavya_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setneg Talent Scorecard</title>
+      <link>https://nandaharsana.github.io/NandaHarsanaOctavya_Portfolio/post/project-2/</link>
+      <pubDate>Tue, 28 Dec 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://nandaharsana.github.io/NandaHarsanaOctavya_Portfolio/post/project-2/</guid>
+      <description>This project is Talent Score Card project at Kementerian Sekretariat Negara in collaboration with Bank Mandiri. this project team participant in the Innovation Awards competition and became the winner.
+Application can display employee skills based on skill groups and levels. Determination of skill groups and levels is based on data on certification, training, education, position history and work team history. This application can be used to find talent according to organizational needs, form work teams and employees can be classified based on 3 main groups.</description>
+    </item>
+    
+    <item>
+      <title>Implementation of voice recognition model using Convolutional Recurrent Neural Network</title>
+      <link>https://nandaharsana.github.io/NandaHarsanaOctavya_Portfolio/post/project-1/</link>
+      <pubDate>Sun, 06 Jun 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://nandaharsana.github.io/NandaHarsanaOctavya_Portfolio/post/project-1/</guid>
+      <description>This project is my Undergraduate Thesis Project. Voice recognition is a process that can determine the identity of the user based on the characteristics of the voice through the words conveyed because every human being has a distinctive sound characteristic. Human voices can be recognized by gender. Recognition of gender based on voice can be detected automatically through the characteristics of the voice. The method used in this research is Convolutional Recurrent Neural Network (CRNN).</description>
+    </item>
+    
+  </channel>
+</rss>
